@@ -1,0 +1,69 @@
+
+        
+        body{
+            background-color:rgb(72, 70, 165); 
+        }
+        
+       a{
+           font-size: larger;
+           font-weight: 300;
+           font-style: italic;
+           font-family: Georgia, 'Times New Roman', Times, serif;
+
+
+
+       }
+        a:hover{
+            color: rgb(153, 97, 51);
+        }
+        a:active{
+            color:rgb(139, 19, 19);
+        }
+        a:visited{
+            color:rgb(114, 250, 198);
+        }
+        .headings{
+            text-align: center;
+            font-family: sans-serif;
+            font-style: italic;
+            font-weight: 600;
+        }
+        p{
+            color: rgb(48, 7, 143);
+            background-color: rgb(130, 234, 238);
+            font-family: cursive;
+        }
+
+        .subheadings{
+            text-align: justify;
+            font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+            font-style: inherit;
+            font-weight: 400;
+             }
+
+        .f1{
+            background-color: rgb(55, 170, 113);
+            font-style: oblique;
+            font-weight: bolder;
+            font-family: monospace;
+            font-size: x-large;
+
+
+
+
+
+
+        }     
+
+
+        .d1{
+            background-color: peru;
+            font-family: cursive;
+            font-weight: inherit;
+            border-radius: 6px;
+            border: solid;
+            border-color: mediumblue;
+
+
+
+        }
